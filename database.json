@@ -1,0 +1,52 @@
+{
+  "cars": [
+    {
+      "name": "1970 Dodge Challenger",
+      "brand": "Dodge",
+      "price": 90000,
+      "year": "1970-02-02",
+      "photo": "https://muscle.su/thumb1200_600_1/upload/images/projects/DSC_0007.jpg",
+      "id": 2
+    },
+    {
+      "name": "1988 Jaguar XJS",
+      "brand": "Jaguar",
+      "price": 52000,
+      "year": "1988-03-23",
+      "photo": "https://muscle.su/thumb1200_600_1/upload/images/cars7/1988_Jaguar_XJS_V12/WhatsApp_Image_2020-06-05_at_14.50.14.jpg",
+      "id": 3
+    },
+    {
+      "name": "1974 Ford Ranchero GT",
+      "brand": "Ford",
+      "price": 30000,
+      "year": "1974-02-21",
+      "photo": "https://muscle.su/thumb1200_600_1/upload/images/cars7/1976_Ford_Ranchero_GT/WhatsApp_Image_2020-06-04_at_17.00.56.jpg",
+      "id": 4
+    },
+    {
+      "name": "1969 Ford Mustang",
+      "brand": "Ford",
+      "price": 75000,
+      "year": "1969-02-22",
+      "photo": "https://muscle.su/thumb1200_600_1/upload/images/cars7/1969_Ford_mustang_fastback/1.jpg",
+      "id": 5
+    },
+    {
+      "name": "1968 Chevrolet Camaro SS",
+      "brand": "Chevrolet",
+      "price": 63500,
+      "year": "1968-02-12",
+      "photo": "https://muscle.su/thumb1200_600_1/upload/images/cars6/1968_%D1%81hevrolet_%D1%81amaro_ss/IMG_3684-15-01-17-02-07.jpeg",
+      "id": 6
+    },
+    {
+      "name": "1982 Nissan Silvia s1 10",
+      "brand": "Nissan",
+      "price": 7500,
+      "year": "1982-09-22",
+      "photo": "https://muscle.su/thumb1200_600_1/upload/images/projects/DSC_0013.jpg",
+      "id": 7
+    }
+  ]
+}
